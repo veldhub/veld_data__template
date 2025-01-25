@@ -6,7 +6,7 @@ This repo contains [data velds](https://zenodo.org/records/13322913) encapsulati
 
 The following data velds were persited. Open the respective veld yaml file for more information.
 
-**[./data/veldREPLACE](./data/veldREPLACE)** 
+**[./data/veldREPLACE.yaml](./data/veldREPLACE.yaml)** 
 
 REPLACE
 
